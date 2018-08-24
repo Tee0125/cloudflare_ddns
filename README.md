@@ -1,6 +1,6 @@
 # Prerequisite
 
-To use $lt;blah.mydomain&gt; for ddns, &lt;mydomain&gt; should be registered to cloudflare
+To use blah.&lt;mydomain&gt; for ddns, &lt;mydomain&gt; should be registered to cloudflare
 
 # Usage 
 
