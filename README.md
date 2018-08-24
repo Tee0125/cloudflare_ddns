@@ -1,5 +1,3 @@
-# https://www.google.com/search?client=safari&rls=en&q=prerequisite&ie=UTF-8&oe=UTF-
-
 # Prerequisite
 
 To use blah.<mydomain> for ddns, <mydomain> should be registered to cloudflare
